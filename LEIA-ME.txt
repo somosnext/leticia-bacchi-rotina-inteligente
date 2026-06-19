@@ -1,0 +1,17 @@
+LANDING PAGE — MÉTODO DA ROTINA INTELIGENTE
+
+Para visualizar:
+1. Abra o arquivo index.html em um navegador.
+
+Antes de publicar:
+1. Substitua o link do botão final pelo link real de pagamento.
+2. Confirme o nome comercial “Beleza Âmbar” e os textos da biografia.
+3. Se desejar, acrescente preço, garantia, depoimentos e perguntas frequentes.
+
+Arquivos principais:
+- index.html: conteúdo da página
+- styles.css: identidade visual e responsividade
+- script.js: animações e aviso do link de pagamento
+- assets/: fotos, logo e capa do produto
+
+A página foi construída para funcionar em computador e celular.
